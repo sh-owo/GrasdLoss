@@ -1,0 +1,11 @@
+torch
+torchvision
+pycocotools
+grad-cam
+requests
+tqdm
+scikit-learn
+pillow
+matplotlib
+seaborn
+tensorboard
