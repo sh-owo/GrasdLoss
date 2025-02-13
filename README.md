@@ -44,7 +44,7 @@ python src/tests/evaluator.py
 
 4. 학습 진행 상황 확인:
 ```bash
-tensorboard --logdir=runs
+tensorboard --logdir=run_logs
 ```
 
 ## 체크포인트
